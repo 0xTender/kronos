@@ -1,0 +1,3 @@
+# kronos
+
+A desktop wallet
